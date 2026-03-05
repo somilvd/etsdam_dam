@@ -62,7 +62,7 @@ Debes entregar una tabla con el siguiente formato:
 | CP6 |  [0]       |   0        |   Caso Límite           |
 | CP7 | []        |   Error: no es posible calcular la media        |     Caso Erróneo         |
 | CP8 | [5,12]        |   Error: nota fuera del rango permitido (0–10)        |  Caso Erróneo            |
-| CP9 | [7,"a",5]        |     Error: valor no numérico      |       Caso Erróneo       |
+| CP9 | [4,"z",6]        |     Error: valor no numérico      |       Caso Erróneo       |
 | CP10|[-1,6,7]         |     Error: nota fuera del rango permitido (0–10)      |     Caso Erróneo         |
 
 Tipos de caso posibles:
